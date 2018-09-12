@@ -50,9 +50,9 @@
     },
     {
       "author": "hsanjuan",
-      "hash": "QmdSeG9s4EQ9TGruJJS9Us38TQDZtMmFGwzTYUDVqNTURm",
+      "hash": "QmVjPAXntr6sAdzDr5PhgXveZtQm5MccSNZo9UheGKzfAX",
       "name": "go-ipfs-chunker",
-      "version": "0.1.0"
+      "version": "0.0.12"
     },
     {
       "author": "whyrusleeping",
